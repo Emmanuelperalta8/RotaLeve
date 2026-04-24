@@ -13,12 +13,15 @@ sintaxe, refatoração etc.);
 
 
 3. Como utilizou a IA no processo de desenvolvimento;
+   
      pedindo apoio quando esquecia algum comando, ou quando falahava nos pensamentos 
 
    
 4. O que foi aceito, adaptado ou rejeitado do material produzido pela IA, e por quê;
+   
     Ajustes pontuais e dicas de aonde colocar determinadas escritas, pois nao estava me localizando no codigo ai acabava pendindo a direção 
 
    
 5. Como você validou que a resposta gerada pela IA estava correta ou adequada ao problema proposto.
+   
      eu olhava se o que ela escreveu fazia logica e depois ia fazer o teste de mesa e o teste de input para verificar se esta seguindo de acordo com o solicitado
